@@ -1,0 +1,30 @@
+{
+  "name": "foodmart",
+  "version": "1.0.0",
+  "description": "This is my e-commerse site for food, drinks and many more",
+  "main": "food.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.9.2",
+    "install": "^0.13.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.3",
+    "multer": "^1.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/softwarica-github/t2---backend-api-reshikastha.git"
+  },
+  "author": "reshika shrestha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/softwarica-github/t2---backend-api-reshikastha/issues"
+  },
+  "homepage": "https://github.com/softwarica-github/t2---backend-api-reshikastha#readme"
+}
